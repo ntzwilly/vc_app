@@ -48,3 +48,5 @@ end
 
 
 gem "geocoder", "~> 1.8"
+
+gem 'active_model_serializers', '~> 0.10.13'
